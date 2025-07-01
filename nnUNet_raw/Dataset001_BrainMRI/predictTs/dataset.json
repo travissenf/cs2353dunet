@@ -1,0 +1,17 @@
+{
+    "channel_names": {
+        "0": "FLAIR"
+    },
+    "labels": {
+        "background": 0,
+        "tumor": 1
+    },
+    "numTraining": 99,
+    "file_ending": ".nii.gz",
+    "licence": "CC-BY 4.0",
+    "converted_by": "Cally Lin",
+    "name": "Brain MRI segmentation",
+    "reference": "Brain MRI segmentation from Kaggle by Mateusz Buda",
+    "release": "1.0",
+    "description": "FLAIR MRI segmentation for LGG tumors from the TCGA dataset (Kaggle 3m version)."
+}
